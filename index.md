@@ -1,9 +1,7 @@
 # Welcome to RezExpert Documentation
 
-## To Do
-
-- 
-  - [ ] 
+- [ ] Export the docs from Confluence
+- [ ] 
 
 ## Project layout
 
